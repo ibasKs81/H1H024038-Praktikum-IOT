@@ -41,7 +41,7 @@ Tabel konfigurasi kabel pada percobaan ini:
 *(Ganti tautan di atas dengan lokasi file gambar skematik atau foto *wiring* Anda)*
 
 ### Foto Proses Praktikum
-![Foto Praktikum](WhatsApp Image 2026-09-02 at 20.31.37.jepg)
+![Foto Praktikum](/ModulI/Dokumentasi/WhatsApp Image 2026-09-02 at 20.31.37.jepg)
 
 ---
 
