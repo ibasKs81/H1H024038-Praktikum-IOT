@@ -46,7 +46,7 @@ Tabel konfigurasi kabel pada percobaan ini:
 ---
 ## 4. JAWABAN SOAL
 ### Flowchart proses akuisisi data sensor DHT22! 
-1[Flowchart] (Flowchart)
+![Flowchart] (Flowchart)
 ### Source Code
 ```cpp
 #include <DHT.h>
