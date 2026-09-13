@@ -46,9 +46,11 @@ Tabel konfigurasi kabel pada percobaan ini:
 ---
 ## 4. JAWABAN SOAL
 ### Flowchart proses akuisisi data sensor DHT22! 
-![Flowchart] (Flowchart)
+![Foto Praktikum](Flowchart)
 
----
+### Isnan function
+Fungsi untuk memeriksa apakah nilai yang dihasilkan valid atau "Not a Number" (NaN). Jika valid, nilainya akan ditambahkan ke variabel total.
+
 ### Source Code
 ```cpp
 #include <DHT.h>
@@ -98,3 +100,5 @@ void loop() {
     Serial.println("Gagal membaca data dari sensor DHT22 selama 5 kali percobaan!");
   }
 }
+```
+### 
