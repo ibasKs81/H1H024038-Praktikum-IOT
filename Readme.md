@@ -44,9 +44,9 @@ Tabel konfigurasi kabel pada percobaan ini:
 ![Foto Praktikum](Dokum)
 
 ---
-
-## 4. Percobaan 1A: Akuisisi Data (Modifikasi Rata-rata 5 Pembacaan)
-
+## 4. JAWABAN SOAL
+### Flowchart proses akuisisi data sensor DHT22! 
+1[Flowchart] (Flowchart)
 ### Source Code
 ```cpp
 #include <DHT.h>
